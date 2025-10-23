@@ -23,7 +23,7 @@
 
 ## About SpicyDevs
 
-SpicyDevs is not just a community; it's a haven for developers, a place to embrace coding, and a launchpad for exciting projects. We believe in fostering a welcoming environment where developers of all levels can connect, collaborate, and grow together. Whether you're a seasoned coder or just starting, there's a place for you in our diverse community.
+SpicyDevs is not just a community; it's a haven for developers, a place to embrace coding, and a launchpad for exciting projects. We believe in fostering a welcoming environment where developers of all levels can connect, collaborate, and grow together. Whether you're a seasoned coder or just starting, there's a place for you in our diverse community.[Currently locked sadly...]
 
 ## 👨‍💻 SpicyDevs Website
 
